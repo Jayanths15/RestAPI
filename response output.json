@@ -1,0 +1,16 @@
+[
+  {
+    "grantee": "'testuser'@'%'",
+    "tableName": "users",
+    "databaseName": "permissions_db",
+    "privilegeType": "SELECT",
+    "isGrantable": "NO"
+  },
+  {
+    "grantee": "'testuser'@'%'",
+    "tableName": "users",
+    "databaseName": "permissions_db",
+    "privilegeType": "INSERT",
+    "isGrantable": "NO"
+  }
+]
